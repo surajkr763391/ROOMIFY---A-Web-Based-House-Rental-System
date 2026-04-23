@@ -14,22 +14,6 @@ House Rental System a C2C property rental website. It is a comprehensive web app
 - Backend Language: PHP
 - Database: MySQL<br/><br/>
 
-## 💻 Contributor
-- <a href="https://github.com/munaimpro">Munaim Khan</a><br/><br/>
 
-## 🤝 Stay connected with me
-<a target="_blank" href="https://www.linkedin.com/in/munaimpro">
-    <img src="https://img.shields.io/badge/Munaim Khan-%23E4405F.svg?&style=for-the-badge&logo=LinkedIn&color=030810&logoColor=FFFFFF"/>
-</a> &nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://www.github.com/munaimpro">
-    <img src="https://shields.io/badge/Munaim Khan-%23E4405f.svg?style=for-the-badge&logo=github&color=030810&logoColor=FFFFFF"/>
-</a> &nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://www.facebook.com/WebCoderMunaim">
-    <img src="https://img.shields.io/badge/Web Coder Munaim-%23E4405F.svg?&style=for-the-badge&logo=facebook&color=030810&logoColor=FFFFFF"/>
-</a><br/><br/>
 
-## 🌐 For more details
-<a target="_blank" href="https://www.munaimpro.com">
-    <img src="https://img.shields.io/badge/munaimpro.com-%23E4405F.svg?&style=for-the-badge&logo=googleearth&color=030810&logoColor=FFFFFF"/>
-</a>
->>>>>>> 8d63a04 (First commit)
+
